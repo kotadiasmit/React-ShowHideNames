@@ -1,0 +1,35 @@
+.container {
+  background-image: linear-gradient(#fc63a7, #fa7257);
+  background-size: auto;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 35px;
+}
+.btn-container {
+  display: flex;
+  width: 600px;
+  justify-content: space-between;
+}
+.btn {
+  background-color: #fddddb;
+  color: #dd1264;
+  padding: 4px;
+  border-radius: 2px;
+  border: none;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.card {
+  padding: 10px;
+  background-color: #fddddb;
+}
+.name {
+  color: black;
+  text-align: center;
+}
